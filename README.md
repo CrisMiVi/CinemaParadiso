@@ -18,12 +18,19 @@
 
 # Key results
 ![image](https://github.com/CrisMiVi/CinemaParadiso/blob/main/dbt_cinemaparadiso/2b55735209844982db00a3b5b68104ac7gKmLvcUKsmQ0krY-0.jpg) 
+
 ![image](https://github.com/CrisMiVi/CinemaParadiso/blob/main/dbt_cinemaparadiso/2b55735209844982db00a3b5b68104ac7gKmLvcUKsmQ0krY-1.jpg)
+
 ![image](https://github.com/CrisMiVi/CinemaParadiso/blob/main/dbt_cinemaparadiso/2b55735209844982db00a3b5b68104ac7gKmLvcUKsmQ0krY-2.jpg)
+
 ![image](https://github.com/CrisMiVi/CinemaParadiso/blob/main/dbt_cinemaparadiso/2b55735209844982db00a3b5b68104ac7gKmLvcUKsmQ0krY-3.jpg)
+
 ![image](https://github.com/CrisMiVi/CinemaParadiso/blob/main/dbt_cinemaparadiso/2b55735209844982db00a3b5b68104ac7gKmLvcUKsmQ0krY-4.jpg)
+
 ![image](https://github.com/CrisMiVi/CinemaParadiso/blob/main/dbt_cinemaparadiso/2b55735209844982db00a3b5b68104ac7gKmLvcUKsmQ0krY-5.jpg)
+
 ![image](https://github.com/CrisMiVi/CinemaParadiso/blob/main/dbt_cinemaparadiso/2b55735209844982db00a3b5b68104ac7gKmLvcUKsmQ0krY-6.jpg)
+
 
 # Project organisation
 
