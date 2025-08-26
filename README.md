@@ -23,7 +23,6 @@
 ![image](https://github.com/user-attachments/assets/e8535c88-89ae-4d2f-82d3-2af0a4ab016e)
 ![image](https://github.com/user-attachments/assets/f6f2e77d-8006-4b2f-8158-771871db3e5b)
 
-![image](https://drive.google.com/drive/u/0/folders/1BkNo0TvlNBMlUoWJrH1ckpmK25VqwuDb)
 
 # Project organisation
 
